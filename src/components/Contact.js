@@ -1,5 +1,3 @@
-// src/components/Contact.js
-
 import React from "react";
 
 export default function Contact() {
@@ -61,13 +59,13 @@ export default function Contact() {
             </div>
           </div>
         </div>
+
         <form
           netlify
-          name="contact v1"
+          name="test"
           onSubmit={handleSubmit}
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
         >
-          <input type="hidden" name="contact v1" value="contact v1" />
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
             Hire Me
           </h2>
