@@ -39,7 +39,7 @@ export default function Contact() {
             style={{ filter: "opacity(0.7)" }}
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d369970.598914452!2d-79.7745418202611!3d43.57748182424367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b469fe76b05b7%3A0x3146cbed75966db!2sMississauga%2C%20ON%2C%20Canada!5e0!3m2!1sen!2smx!4v1670267256527!5m2!1sen!2smx"
           />
-          <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
+          <div className="bg-gray-900 relative flex flex-wrap py-4 px-8 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 ADDRESS
