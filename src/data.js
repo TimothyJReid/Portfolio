@@ -5,7 +5,7 @@ export const projects = [
     description:
       "I am proud to have developed 'Stay-cation', an innovative app that combines the power of React Native, Javascript, and Bootstrap to help digital nomads find the perfect place to live and work. Stay-cation is built to be fast and responsive, making it easy for users to find what they're looking for quickly. Give it a try and see how it can help you find your next stay-cation spot!",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/TimothyJReid/Staycation",
   },
   {
     title: "My Site",
@@ -13,15 +13,15 @@ export const projects = [
     description:
       "I'm excited to share my simple and clean website, built with a focus on user experience and easy navigation. With a minimalistic design and clear layout, it's a breeze to find what you're looking for. My website is built using React and Tailwind which ensures that it responsive and functions smoothly, as I am sure you have already experienced.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/TimothyJReid/Portfolio",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "JavaScript And Python",
+    subtitle: "Some fun with Language ",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Just some small apps and games utilizing Python and JavaScript  ",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/TimothyJReid/Python_JavaScript",
   },
   {
     title: "Coming Soon",
