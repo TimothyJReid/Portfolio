@@ -29,7 +29,7 @@ export const projects = [
     description:
       "a new project is on the horizon. It's worth keeping an eye out for the release. More details to come soon!",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "",
   },
 ];
 
