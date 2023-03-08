@@ -13,7 +13,7 @@ export const projects = [
     description:
       "I'm excited to share my simple and clean website, built with a focus on user experience and easy navigation. With a minimalistic design and clear layout, it's a breeze to find what you're looking for. My website is built using React and Tailwind which ensures that it responsive and functions smoothly, as I am sure you have already experienced.",
     image: "./project-2.gif",
-    link: "https://github.com/TimothyJReid/Portfolio",
+    link: "https://timothyjreid.netlify.app/",
   },
   {
     title: "JavaScript And Python",
