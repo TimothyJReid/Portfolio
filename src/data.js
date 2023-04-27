@@ -24,12 +24,12 @@ export const projects = [
     link: "https://github.com/TimothyJReid/Python_JavaScript",
   },
   {
-    title: "Coming Soon",
-    subtitle: "New Tech Stack",
+    title: "Task Web App",
+    subtitle: "HTML, CSS, JavaScript",
     description:
-      "a new project is on the horizon. It's worth keeping an eye out for the release. More details to come soon!",
+      " a new task web app that combines productivity with gamification! With this app, you can create and manage your daily tasks, track your progress, earn rewards, and level up your productivity. The app's gamification features make it more engaging and fun, motivating you to complete your tasks and reach your goals",
     image: "./project-4.gif",
-    link: "",
+    link: "https://github.com/TimothyJReid/TaskWebApp",
   },
 ];
 
